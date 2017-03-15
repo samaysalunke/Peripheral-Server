@@ -1,0 +1,8 @@
+D:/Peripheral\ Server\ WDT\ Notification.cydsn/CortexM0/ARM_GCC_493/Debug/CyBootAsmGnu.o : D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/cyfittergnu.inc 
+
+D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/CyBootAsmGnu.s : 
+
+D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/cydevicegnu_trm.inc : 
+
+D:/Peripheral\ Server\ WDT\ Notification.cydsn/Generated_Source/PSoC4/cyfittergnu.inc : 
+

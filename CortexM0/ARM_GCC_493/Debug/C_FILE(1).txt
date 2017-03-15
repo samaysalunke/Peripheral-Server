@@ -1,0 +1,1 @@
+'D:\Peripheral Server WDT Notification.cydsn\main.c' 'D:\Peripheral Server WDT Notification.cydsn\debug.c' -o .o -T C_FILE -I 'D:\Peripheral Server WDT Notification.cydsn' -I 'D:\Peripheral Server WDT Notification.cydsn\Generated_Source\PSoC4' -f 'D:\Peripheral Server WDT Notification.cydsn\CortexM0\ARM_GCC_493\Debug\.deps\C_FILE.d'

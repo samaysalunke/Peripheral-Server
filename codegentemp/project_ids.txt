@@ -1,0 +1,5 @@
+C:\Users\Samay\Desktop\Peripheral Server WDT Notification.cydsn\Peripheral Server WDT Notification.cyprj|88e7c620-43c8-4f70-b653-a004a2e92f69
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|b8b3e700-fe89-4355-8e6f-369c80d9508d
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|0d08af61-cdaa-4329-97a4-0671fe72be61
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|ecded57c-b116-4fea-8bc2-413912ce313f
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|de64010f-ffae-435d-a408-3c2b930081a2
